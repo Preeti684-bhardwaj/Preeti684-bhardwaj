@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preeti684-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="preeti684-bhardwaj" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=preeti684-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="preeti684-bhardwaj"/></p>
 
 - 🔭 I’m currently working on [Daily News](https://github.com/Preeti684-bhardwaj/Daily-News-app.git)
 
