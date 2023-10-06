@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [iNotebook- Your Notes On Cloud](https://github.com/Preeti684-bhardwaj/iNotebook.git)
 
-- 🌱 I’m currently learning **TailWind,PostgreSQL**
+- 🌱 I’m currently learning **Firebase,graphQL**
 
 - 👨‍💻 All of my projects are available at [https://preeti-s-portfolio.vercel.app/](https://preeti-s-portfolio.vercel.app/)
 
