@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=preeti684-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="preeti684-bhardwaj"/></p>
 
-- 🔭 I’m currently working on [Shopify App Feature-PushNotification]()
+- 🔭 I’m currently working on [Toyota online assessment Face Recognisation(FR)]()
 
 - 🌱 I’m currently learning **Firebase,graphQL,PostgreSql,Payload cms**
 
