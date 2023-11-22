@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Shopify App Feature-PushNotification]()
 
-- 🌱 I’m currently learning **Firebase,graphQL**
+- 🌱 I’m currently learning **Firebase,graphQL,PostgreSql,Payload cms**
 
 - 👨‍💻 All of my projects are available at [https://preeti-s-portfolio.vercel.app/](https://preeti-s-portfolio.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Reactjs, Bootstrap, Nodejs, Express.js, MongoDB, Redis**
+- 💬 Ask me about **HTML, CSS, Javascript, Reactjs, Bootstrap, Nodejs, Express.js, MongoDB, Redis,PostgreSql,GraphQL,AWS3**
 
 - 📫 How to reach me **bhardwajpreeti684@gmail.com**
 
