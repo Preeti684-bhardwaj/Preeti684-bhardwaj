@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=preeti684-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="preeti684-bhardwaj"/></p>
 
-- 🔭 I’m currently working on [Hyundai Dashboard (Data Analysis)]()
+- 🔭 I’m currently working on [Saas Subscription and UNTact]()
 
-- 🌱 I’m currently learning **Cube js , ant design**
+- 🌱 I’m currently learning **sequelizeORM**
 
 - 👨‍💻 All of my projects are available at [https://preeti-s-portfolio.vercel.app/](https://preeti-s-portfolio.vercel.app/)
 
