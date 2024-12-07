@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=preeti684-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="preeti684-bhardwaj"/></p>
 
-- 🔭 I’m currently working on [Saas Subscription and UNTact]()
+- 🔭 I’m currently working on [Xplore Promote (Campaign App for brands and products (available in Android & IOS and Web too))]()
 
-- 🌱 I’m currently learning **sequelizeORM**
+- 🌱 I’m currently learning **Nginx** **Docker** **GoogleAnalytics**
 
 - 👨‍💻 All of my projects are available at [https://preeti-s-portfolio.vercel.app/](https://preeti-s-portfolio.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Reactjs, Bootstrap, Nodejs, Express.js, MongoDB, Redis,PostgreSql,GraphQL,AWS3,Firebase,Cube js,Payload CMS**
+- 💬 Ask me about **HTML, CSS, Javascript, Reactjs, Bootstrap, Nodejs, Express.js, MongoDB, Redis,PostgreSql,GraphQL,AWS3,Firebase,Cube js,Payload CMS,Payment Gateways,E2E Network CDN(content Delivery Network)**
 
 - 📫 How to reach me **bhardwajpreeti684@gmail.com**
 
